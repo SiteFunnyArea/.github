@@ -1,5 +1,5 @@
 ## Welcome to the SiteFunnyArea GitHub
-SiteFunnyArea is an SCP:SL and Minecraft server. But this is for certain things like plugins on the server.
+SiteFunnyArea is an SCP:SL and Minecraft server. But this is for certain things like plugins on our servers.
 <!--
 
 **Here are some ideas to get you started:**
